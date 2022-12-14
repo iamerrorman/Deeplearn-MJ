@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="others">
+    <file>0.png</file>
+    <file>1.png</file>
+    <file>3.png</file>
+    <file>shang.png</file>
+    <file>xia.png</file>
+    <file>you.png</file>
+    <file>zuo.png</file>
+  </qresource>
+</RCC>
